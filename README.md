@@ -9,57 +9,21 @@
 
 ![Contribution](https://activity-graph.herokuapp.com/graph?username=Digostts&theme=gotham&hide_border=true&area=true)&nbsp;
 ================
-### Habilidades:
+### Conhecimento:
 <div style="display: inline-block">
 
-<img align = "center" alt="html5" src="https://img.shields.io/badge/Python-0D1117?style=for-the-badge&logo=python&labelColor=0D1117">
+<img align = "center" alt="html5" src="https://www.udrop.com/file/7bHj/HTML.png" height="80">
+<img align = "center" alt="html5" src="https://www.udrop.com/file/7bHk/CSS.png" height="80">
+<img align = "center" alt="html5" src="https://www.udrop.com/file/7bHi/JavaScriot.png" height="80">
 
-<img align = "center" alt="html5" src="https://img.shields.io/badge/Django-0D1117?style=for-the-badge&logo=django&logoColor=1D6346">
-
-<img align = "center" alt="html5" src="https://img.shields.io/badge/Flask-0D1117?style=for-the-badge&logo=flask&labelColor=0D1117">
-
-<img align = "center" alt="html5" src="https://img.shields.io/badge/HTML5-0D1117?style=for-the-badge&logo=html5&labelColor=0D1117">
-
-<img align = "center" alt="html5" src="https://img.shields.io/badge/CSS3-0D1117?style=for-the-badge&logo=css3&logoColor=5C70DB">
-
-<img align = "center" alt="html5" src="https://img.shields.io/badge/Microsoft_SQL_Server-0D1117?style=for-the-badge&logo=microsoft-sql-server&logoColor=e73104">
-
-<img align = "center" alt="html5" src="https://img.shields.io/badge/-Git-0D1117?style=for-the-badge&logo=git&labelColor=0D1117">
-
-</div>&nbsp;
-
-### Ferramentas:
-<div style="display: inline-block">
-
-<img align = "center" alt="html5" src="https://img.shields.io/badge/-Visual%20Studio%20Code-0D1117?style=for-the-badge&logo=visual-studio-code&logoColor=007ACC&labelColor=0D1117">
-
-<img align = "center" alt="html5" src="https://img.shields.io/badge/Visual_Studio-0D1117?style=for-the-badge&logo=visual%20studio&logoColor=6C1B93">
-
-<img align = "center" alt="html5" src="https://img.shields.io/badge/-GitHub-0D1117?style=for-the-badge&logo=github&labelColor=0D1117">
-
-<img align = "center" alt="html5" src="https://img.shields.io/badge/-microsoft_office-0D1117?style=for-the-badge&logo=microsoft-office&logoColor=cd3e16">
-
-<img align = "center" alt="html5" src="https://img.shields.io/badge/Eclipse-0D1117?style=for-the-badge&logo=eclipse&logoColor=8317e1">
-
-</div>&nbsp;
-
-### Noção Em:
-<div style="display: inline-block">
-<img align = "center" alt="html5" src="https://img.shields.io/badge/Sequelize-0D1117?style=for-the-badge&logo=Sequelize&logoColor=1b7fac">
-
-<img align = "center" alt="html5" src="https://img.shields.io/badge/powershell-0D1117?style=for-the-badge&logo=powershell&logoColor=253284">
-
-<img align = "center" alt="html5" src="https://img.shields.io/badge/MongoDB-0D1117?style=for-the-badge&logo=mongodb&logoColor=15D375">
-
-<img align = "center" alt="html5" src="https://img.shields.io/badge/JavaScript-0D1117?style=for-the-badge&logo=javascript&logoColor=F7DF1E">
 </div>&nbsp;
 
 ### Estudando:
 <div style="display: inline-block">
 
-<img align = "center" alt="html5" src="https://img.shields.io/badge/.NET-0D1117?style=for-the-badge&logo=.net&logoColor=601591">
+<img align = "center" alt="html5" src="https://www.udrop.com/file/7bHl/JAVA-removebg-preview.png" height="80">
 
-<img align = "center" alt="html5" src="https://img.shields.io/badge/C%23-0D1117?style=for-the-badge&logo=c-sharp&logoColor=15991B">
+<img align = "center" alt="html5" src="https://www.udrop.com/file/7bHm/Python-removebg-preview.png" height="60">
 
 </div>&nbsp;
 
