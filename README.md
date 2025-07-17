@@ -1,6 +1,6 @@
 # 👋 Olá, sou o Rodrigo Santos!
 
-### ✨ Transformando Dados em Decisões Estratégicas | Analista de Business Intelligence
+### ✨ Analista de Business Intelligence
 
 Com uma sólida trajetória em **Business Intelligence**, sou apaixonado por desvendar o potencial dos dados. Minha expertise abrange todo o ciclo de vida do dado, desde a **engenharia e tratamento (ETL)** até a construção de **dashboards e relatórios interativos** que capacitam a tomada de decisão. Meu foco é sempre em **usabilidade** e na entrega de **insights acionáveis**.
 
