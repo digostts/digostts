@@ -1,53 +1,47 @@
-<img width=100% src="https://capsule-render.vercel.app/api?type=Wave&color=00cc86&height=180&section=header&text=&fontSize=30&fontColor=fff&animation=twinkling&fontAlignY=35"/>&nbsp;
+# 👋 Olá, sou o Rodrigo Santos!
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00cc86&size=35&center=true&vCenter=true&width=1000&lines=Olá,+Meu+Nome+é+Rodrigo+Santos;Tenho+29+Anos+de+Idade;Eu+Moro+Em+Salvador,+BA;Bem-vindo+Ao+Meu+Repositório!+:%29)](https://git.io/typing-svg)&nbsp;
+### ✨ Transformando Dados em Decisões Estratégicas | Analista de Business Intelligence
 
-<div align="center">  
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=Digostts&show_icons=true&count_private=true&hide_border=true&title_color=00cc86&icon_color=00cc86&text_color=c9d1d9&bg_color=0d1117" alt="Rodrigo Santos github stats" /> 
-  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Digostts&layout=compact&hide_border=true&title_color=00cc86&text_color=00cc86&bg_color=0d1117" />
-</div>&nbsp;
+Com uma sólida trajetória em **Business Intelligence**, sou apaixonado por desvendar o potencial dos dados. Minha expertise abrange todo o ciclo de vida do dado, desde a **engenharia e tratamento (ETL)** até a construção de **dashboards e relatórios interativos** que capacitam a tomada de decisão. Meu foco é sempre em **usabilidade** e na entrega de **insights acionáveis**.
 
-![Contribution](https://activity-graph.herokuapp.com/graph?username=Digostts&theme=gotham&hide_border=true&area=true)&nbsp;
-================
-### Conhecimento:
-<div style="display: inline-block">
+---
 
-<img align = "center" alt="html5" src="https://www.udrop.com/file/7bHj/HTML.png" height="80">
-<img align = "center" alt="html5" src="https://www.udrop.com/file/7bHk/CSS.png" height="80">
-<img align = "center" alt="html5" src="https://www.udrop.com/file/7bHi/JavaScriot.png" height="80">
+### 🎯 Meus Números & Conquistas
 
-</div>&nbsp;
+*   📊 **+100 Relatórios** gerenciais desenvolvidos e entregues.
+*   📈 **+50 Dashboards** interativos criados, com foco em design e experiência do usuário.
+*   🚀 **+10 Projetos de BI** implementados, gerando impacto direto no negócio.
+*   ⏳ **+3 Anos de Experiência** em análises e soluções de dados.
 
-### Estudando:
-<div style="display: inline-block">
+---
 
-<img align = "center" alt="html5" src="https://www.udrop.com/file/7bHl/JAVA-removebg-preview.png" height="80">
+### 🛠️ Ferramentas & Habilidades Essenciais
 
-<img align = "center" alt="html5" src="https://www.udrop.com/file/7bHm/Python-removebg-preview.png" height="60">
+**Visualização & Análise:**
+![Qlik Sense](https://img.shields.io/badge/Qlik_Sense-00A6DA?style=for-the-badge&logo=qlik&logoColor=white)
+![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=white)
+![Targit](https://img.shields.io/badge/Targit-333333?style=for-the-badge&color=gray&labelColor=333333) <!-- Badge genérico, pois não há logo oficial Targit no Shields.io -->
 
-</div>&nbsp;
+**Linguagens & ETL:**
+![DAX](https://img.shields.io/badge/DAX-2173B9?style=for-the-badge&logo=powerbi&logoColor=white) <!-- Usando o logo do Power BI, já que DAX é central para ele -->
+![M Script](https://img.shields.io/badge/M_Script-0078D4?style=for-the-badge&logo=microsoft&logoColor=white) <!-- Usando o logo da Microsoft, pois é parte do Power Query -->
+![Qlik Script](https://img.shields.io/badge/Qlik_Script-00A6DA?style=for-the-badge&logo=qlik&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![VBA](https://img.shields.io/badge/VBA-863695?style=for-the-badge&logo=microsoft-excel&logoColor=white)
 
--------------------------------
+**Automação & Processos (Low-Code/No-Code):**
+![Alteryx](https://img.shields.io/badge/Alteryx-FF6600?style=for-the-badge&logo=alteryx&logoColor=white)
+![Power Apps](https://img.shields.io/badge/Power_Apps-742774?style=for-the-badge&logo=powerapps&logoColor=white)
+![Power Automate](https://img.shields.io/badge/Power_Automate-0066CC?style=for-the-badge&logo=powerautomate&logoColor=white)
 
-<div style="display: inline-block"; align="center">
-<h2>Redes Sociais:</h2>
+---
 
-[![Linkedin](https://img.shields.io/badge/LinkedIn-38245B?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/digostts/)
-[![Whatsapp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://api.whatsapp.com/send?phone=5571982664135&text=Ol%C3%A1%20Sou%20o%20Rodrigo%20Santos)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:rodrigobas.1993@gmail.com)
+### 🚀 Onde meus dados me levam
 
-<h2></h2>
+Atualmente focado em projetos que exploram a sinergia entre análise de dados e automação, buscando otimizar fluxos de trabalho e gerar inteligência de negócio proativa.
 
-</div>&nbsp;
+---
 
--------------------------------
+### 🔗 Conecte-se comigo
 
-
-<div align="center">
-<br><p align="centre"><b>Contador de Visitas</b></p>  
-<p align="center"><img align="center" src="https://profile-counter.glitch.me/{Digostts}/count.svg" /></p> 
-<br></div>
-
-
-
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00cc86&height=180&section=header&text=&fontSize=30&fontColor=fff&animation=twinkling&fontAlignY=35"/> 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/seu-perfil)
