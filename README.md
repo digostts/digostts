@@ -1,33 +1,67 @@
-<img width=100% src="https://capsule-render.vercel.app/api?type=Wave&color=ffffff&height=180&section=header&text=&fontSize=30&fontColor=fff&animation=twinkling&fontAlignY=35"/>&nbsp;
-# 👋 Olá, sou o Rodrigo Santos!
+<p align="center">
+  <img src="Images/header-animation.svg" alt="Typing animation" />
+</p>
 
-### ✨ Analista de Business Intelligence
-
-Com uma sólida trajetória em **Business Intelligence**, sou apaixonado por desvendar o potencial dos dados. Minha expertise abrange todo o ciclo de vida do dado, desde a **engenharia e tratamento (ETL)** até a construção de **dashboards e relatórios interativos** que capacitam a tomada de decisão. 
-
----
-
-### 🏆 Minhas Conquistas em BI
-
-<img width="850" height="125" alt="image" src="https://github.com/user-attachments/assets/177f04d6-8673-4489-9036-42a7f1b202e6" />
+<p align="center">
+  <a href="https://www.linkedin.com/in/digostts" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="mailto:rodrigobas.1993@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="https://wa.me/5571982664135" target="_blank"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" /></a>
+</p>
 
 ---
 
-### 💡 Expertise em Ferramentas
+## 🚀 Sobre mim
 
-<img width="850" height="250" alt="image" src="https://github.com/user-attachments/assets/f8858aeb-b754-48cd-a15a-72298604e16c" />
-<img width="850" height="250" alt="image" src="https://github.com/user-attachments/assets/265b63a5-fe4d-4f7a-a60a-e457bf4179d3" />
+Sou um profissional focado em **análise de dados**, **indicadores de performance** e **visualização executiva**. Meu objetivo é conectar dados ao negócio, criando análises claras que apoiam decisões com rapidez e segurança.
 
----
-
-### 🚀 Onde meus dados me levam
-
-Atualmente focado em projetos que exploram a sinergia entre análise de dados e automação, buscando otimizar fluxos de trabalho e gerar inteligência de negócio proativa.
+- 📊 Experiência com construção de dashboards e monitoramento de KPIs
+- 🧠 Visão analítica com foco em eficiência operacional e resultados
+- 🤝 Comunicação orientada ao negócio para transformar números em ações
 
 ---
 
-### 🔗 Contato
+## 🛠️ Stack e Ferramentas
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/digostts)
+<p>
+  <img src="https://img.shields.io/badge/Qlik%20Sense-009845?style=flat-square&logo=qlik&logoColor=white" />
+  <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=flat-square&logo=powerbi&logoColor=black" />
+  <img src="https://img.shields.io/badge/Looker-4285F4?style=flat-square&logo=looker&logoColor=white" />
+  <img src="https://img.shields.io/badge/Tableau-E97627?style=flat-square&logo=tableau&logoColor=white" />
+  <img src="https://img.shields.io/badge/Targit-1D4ED8?style=flat-square&logoColor=white" />
+  <img src="https://img.shields.io/badge/Alteryx-0A4FA3?style=flat-square&logoColor=white" />
+  <img src="https://img.shields.io/badge/Power%20Automate-0066FF?style=flat-square&logo=powerautomate&logoColor=white" />
+  <img src="https://img.shields.io/badge/Power%20Apps-742774?style=flat-square&logo=powerapps&logoColor=white" />
+</p>
 
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=ffffff&height=180&section=header&text=&fontSize=30&fontColor=fff&animation=twinkling&fontAlignY=35"/> 
+### 💻 Linguagens
+
+<p>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/R-276DC3?style=flat-square&logo=r&logoColor=white" />
+  <img src="https://img.shields.io/badge/SQL-336791?style=flat-square&logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/VBA-217346?style=flat-square&logo=microsoftoffice&logoColor=white" />
+</p>
+
+---
+
+## 📈 Destaques de Projetos
+
+- **Mashup da Saúde** *(Qlik Sense)*
+- **Extensão de Alerta** *(Extensão Qlik Sense)*
+- **Painel Executivo de Planejamento de Recursos** *(Power BI)*
+- **Fluxo de Coberturas Vacinais** *(Alteryx)*
+- **Painel Centralizar** *(Power Apps)* de dashboards *(Power BI)* com fluxo em **SharePoint + Power Automate** e regras de acesso (**Section Access**)
+
+---
+
+## 🎯 Proposta de Valor
+
+✅ Transformar grandes volumes de dados em insights acionáveis  
+✅ Construir painéis intuitivos para times técnicos e executivos  
+✅ Apoiar metas de negócio com indicadores confiáveis
+
+---
+
+<p align="center">
+  <img src="Images/footer-animation.svg" alt="Footer typing animation" />
+</p>
