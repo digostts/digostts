@@ -22,16 +22,22 @@ Sou um profissional focado em **análise de dados**, **indicadores de performanc
 
 ## 🛠️ Stack e Ferramentas
 
+### 📊 Business Intelligence
 <p>
-  <img src="https://img.shields.io/badge/Qlik%20Sense-009845?style=flat-square&logo=qlik&logoColor=white" />
-  <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=flat-square&logo=powerbi&logoColor=black" />
-  <img src="https://img.shields.io/badge/Looker-4285F4?style=flat-square&logo=looker&logoColor=white" />
-  <img src="https://img.shields.io/badge/Tableau-E97627?style=flat-square&logo=tableau&logoColor=white" />
-  <img src="https://img.shields.io/badge/Targit-1D4ED8?style=flat-square&logoColor=white" />
-  <img src="https://img.shields.io/badge/Alteryx-0A4FA3?style=flat-square&logoColor=white" />
-  <img src="https://img.shields.io/badge/Power%20Automate-0066FF?style=flat-square&logo=powerautomate&logoColor=white" />
-  <img src="https://img.shields.io/badge/Power%20Apps-742774?style=flat-square&logo=powerapps&logoColor=white" />
+  <img src="https://img.shields.io/badge/Qlik%20Sense-009845?style=for-the-badge&logo=qlik&logoColor=white" />
+  <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" />
+  <img src="https://img.shields.io/badge/Looker-4285F4?style=for-the-badge&logo=looker&logoColor=white" />
+  <img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white" />
+  <img src="https://img.shields.io/badge/Targit-1D4ED8?style=for-the-badge&logoColor=white" />
 </p>
+
+### ⚙️ ETL & Automação
+<p>
+  <img src="https://img.shields.io/badge/Alteryx-0A4FA3?style=for-the-badge&logoColor=white" />
+  <img src="https://img.shields.io/badge/Power%20Automate-0066FF?style=for-the-badge&logo=powerautomate&logoColor=white" />
+  <img src="https://img.shields.io/badge/Power%20Apps-742774?style=for-the-badge&logo=powerapps&logoColor=white" />
+</p>
+
 
 ### 💻 Linguagens
 
@@ -46,11 +52,17 @@ Sou um profissional focado em **análise de dados**, **indicadores de performanc
 
 ## 📈 Destaques de Projetos
 
-- **Mashup da Saúde** *(Qlik Sense)*
-- **Extensão de Alerta** *(Extensão Qlik Sense)*
-- **Painel Executivo de Planejamento de Recursos** *(Power BI)*
-- **Fluxo de Coberturas Vacinais** *(Alteryx)*
-- **Painel Centralizar** *(Power Apps)* de dashboards *(Power BI)* com fluxo em **SharePoint + Power Automate** e regras de acesso (**Section Access**)
+**Dashboards & BI:**
+- Mashup da Saúde *(Qlik Sense)*
+- Painel de Gestão Atendimentos no Carnaval *(Qlik Sense)*
+- Painel Executivo Planejamento de Recursos *(Power BI)*
+
+**Automação & Integração:**
+- Hub Dashboards *(Power Apps + Power Automate)*
+- Fluxo de Coberturas Vacinais *(Alteryx)*
+
+**Componentes & Extensões:**
+- Extensão de Alerta *(Qlik Sense)*
 
 ---
 
@@ -62,8 +74,16 @@ Sou um profissional focado em **análise de dados**, **indicadores de performanc
 
 ---
 
-Para conhecer melhor meu trabalho e projetos, acesse meu portfólio:
-👉 **[https://digostts.github.io/](https://digostts.github.io/)**
+## 🌐 Portfólio
+
+Acesse meu portfólio interativo:
+
+<p align="center">
+  <a href="https://digostts.github.io/" target="_blank">
+    <img src="https://img.shields.io/badge/🚀_Acessar_Portfólio-009845?style=for-the-badge" />
+  </a>
+</p>
+
 
 ---
 <p align="center">
