@@ -62,6 +62,10 @@ Sou um profissional focado em **análise de dados**, **indicadores de performanc
 
 ---
 
+Para conhecer melhor meu trabalho e projetos, acesse meu portfólio:
+👉 **[https://digostts.github.io/](https://digostts.github.io/)**
+
+---
 <p align="center">
   <img src="Images/footer-animation.svg" alt="Footer typing animation" />
 </p>
