@@ -1,0 +1,23 @@
+<svg width="900" height="120" viewBox="0 0 900 120" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Rodrigo Santos - Analista de Dados BI Automação">
+  <defs>
+    <linearGradient id="bg" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#0A66C2">
+        <animate attributeName="stop-color" values="#0A66C2;#25D366;#0A66C2" dur="6s" repeatCount="indefinite"/>
+      </stop>
+      <stop offset="100%" stop-color="#25D366">
+        <animate attributeName="stop-color" values="#25D366;#0A66C2;#25D366" dur="6s" repeatCount="indefinite"/>
+      </stop>
+    </linearGradient>
+  </defs>
+
+  <rect x="0" y="0" width="900" height="120" rx="18" fill="url(#bg)"/>
+
+  <text x="450" y="48" text-anchor="middle" font-family="Segoe UI, Arial, sans-serif" font-size="34" font-weight="700" fill="#ffffff">
+    Rodrigo Santos
+  </text>
+
+  <text x="450" y="82" text-anchor="middle" font-family="Segoe UI, Arial, sans-serif" font-size="20" fill="#ffffff">
+    Analista de Dados | BI | Automação
+    <animate attributeName="opacity" values="0.7;1;0.7" dur="2.5s" repeatCount="indefinite"/>
+  </text>
+</svg>
