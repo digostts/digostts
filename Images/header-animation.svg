@@ -17,7 +17,7 @@
   </text>
 
   <text x="450" y="82" text-anchor="middle" font-family="Segoe UI, Arial, sans-serif" font-size="20" fill="#ffffff">
-    Analista de Dados | BI | Automação
+    Analista de BI
     <animate attributeName="opacity" values="0.7;1;0.7" dur="2.5s" repeatCount="indefinite"/>
   </text>
 </svg>
