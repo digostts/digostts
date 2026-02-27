@@ -60,9 +60,11 @@ Sou um profissional focado em **análise de dados**, **indicadores de performanc
 **Automação & Integração:**
 - Hub Dashboards *(Power Apps + Power Automate)*
 - Fluxo de Coberturas Vacinais *(Alteryx)*
+- Programa de Automação de Mensagens com Controle por Excel (Python + Automação Web)
 
 **Componentes & Extensões:**
 - Extensão de Alerta *(Qlik Sense)*
+- Tema Personalizado *(Qlik Sense)*
 
 ---
 
