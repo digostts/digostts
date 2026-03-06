@@ -63,7 +63,8 @@ Sou um profissional focado em **análise de dados**, **indicadores de performanc
 - Programa de Automação de Mensagens com Controle por Excel (Python + Automação Web)
 
 **Componentes & Extensões:**
-- Extensão de Alerta *(Qlik Sense)*
+- Extensão de Alerta *(Qlik Sense)*- 
+- Extensão de Filtro Flutuante *(Qlik Sense)*
 - Tema Personalizado *(Qlik Sense)*
 
 ---
