@@ -1,7 +1,3 @@
-<p align="center">
-  <img src="Images/header-animation.svg" alt="Data Scientist & Data Analyst" />
-</p>
-
 <h1 align="center">Rodrigo Santos</h1>
 
 <p align="center">
